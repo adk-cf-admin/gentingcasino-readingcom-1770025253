@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#22272F",
+            "lang-select-color": "#222829",
+            "bg-light": "#22272F",
+            "welcome-bonus-bg": "#22272F",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#16191d",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#2A4F51",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#7C030B",
+            "yellow": "#2A4F51",
+            "yellow-button": "#7C030B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#22272F",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#49494b",
+            "providers-back": "#22272F",
+            "faq-label": "#22272F",
+            "bg-footer": "#22272F",
+            "copyright": "#e7e7d5",
+            "starColor": "#2A4F51",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2389"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2390",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Genting Casino Reading Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2391",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Genting Casino Reading"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-gb-en-GB",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "GB",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Genting Casino Reading",
+                    "title": "Genting Casino Reading | Roulette, Blackjack, LIVE e‑tables, Slots & Cash Poker",
+                    "description": "Welcome to our casino for dealer‑led classics, modern LIVE e‑tables, jackpot slots and Cash Poker. Enjoy our Late Bar, a true night‑out atmosphere and special offers designed to make every visit feel bigger and more exciting.",
+                    "canonical": "gentingcasino-reading.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2392",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "gentingcasino-reading.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2393"
+                },
+                "hero": {
+                    "title": "Genting Casino Reading — dealer tables, slots, poker and a Late Bar",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2396",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2397",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Big slot jackpots to chase every night.",
+                        "LIVE e‑tables: fast rounds, frequent wins.",
+                        "Dealer roulette and blackjack every day.",
+                        "Cash Poker: action, pots, winning moments.",
+                        "Welcome promos and gaming free play.",
+                        "Late bar: cocktails, atmosphere, live sport.",
+                        "Easy arrival with convenient on‑site parking."
+                    ],
+                    "advantagesAfterText": "We bring the best of live tables, electronic play and relaxed social spaces together in one night out. It’s simple to get started—walk in as a guest and choose the pace that suits you. Expect a confident, welcoming vibe where playing, dining and celebrating wins feel effortless.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Genting Casino Reading App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2394",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Genting Casino Reading App",
+                    "mobileGooglePlayImageTitle": "Genting Casino Reading App",
+                    "mobileIosImageTitle": "Genting Casino Reading App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Genting Casino Reading",
+                        "description1": "We stand out by combining dealer-led classics and modern electronic play under one roof. We keep the energy high with a strong schedule of gaming, drinks and in‑venue moments worth turning up for.\n",
+                        "items": [
+                            "Slot jackpots: up to £10,000.",
+                            "Blackjack stakes: up to £2,000.",
+                            "E‑tables: £0.10 to £100."
+                        ],
+                        "description2": "Our casino is where your night starts smoothly and runs with real energy into the late hours. We bring together dealer-led tables and modern electronic gaming so you can play at your own pace. The atmosphere feels welcoming and confident, making it comfortable for first-timers and seasoned players alike. \n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2395",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "It’s easy to mix gaming with social time, drinks and a relaxed break whenever you want it. We focus on the full casino-night experience—pace, excitement and memorable moments. If you love tradition, you’ll enjoy the classic table favourites, and if you prefer speed you’ll appreciate our electronic formats. Poker fans can settle in for lively card action and a great table feel. Our bar sets the tone and keeps the vibe going between sessions. We add extra reasons to visit through events and special offers throughout the year. Join us for the games, the atmosphere and the wins worth celebrating."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Genting Casino Reading: style, gaming and great nights",
+                        "description": "<p>\nThe moment you step into our casino, you feel a modern, confident style paired with real energy. We shape the space so comfort and excitement work together—lighting, music and smart zoning make it easy to move between play and downtime. Whether you arrive with friends, as a couple or on your own, we help your night feel personal and effortless. The vibe is welcoming and focused, so you can relax while still enjoying the buzz of a true casino evening.\n\n<\/p>\n<br>\n\n\n<p>\nWe open every day, making it easy to plan your visit without overthinking it. Earlier hours suit a calmer rhythm, and as the night builds the floor comes alive—dealer tables feel more active, the social energy rises and the reasons to stay get stronger. We keep service smooth so you can take a break, refresh and return to the action whenever it suits you. Our format works equally well for a quick session or a full night out.\n\n<\/p>\n<br>\n<p>\nOur bar is a key part of the experience, where flavour and atmosphere go hand in hand. We serve crowd‑favourite cocktails, popular mixes and a strong range of drinks to match any mood. The bar area is ideal for meeting up, sharing winning stories and keeping your night flowing without losing momentum. It’s the kind of space that feels right at the start, in the middle and at the end of your evening.\n\n<\/p>\n<br>\n<p>\nWe also make sure entertainment goes beyond the tables. It’s easy to blend gaming with live sport, social time and lively in‑venue moments. We regularly create “now” reasons to visit—seasonal themes, special nights and limited‑time offers that add extra excitement to your favourite games. That approach turns a visit into a complete leisure experience, not just a gaming session.\n\n<\/p>\n<br>\n<p>\nFor guests who like to get more from every visit, we support rewarding offers that enhance your night. You can walk in as a guest and, if you wish, join our rewards programme to unlock added perks. We value regulars and keep benefits clear and genuinely useful—from enjoyable surprises to special promotions. The result is simple: great gaming, great atmosphere, and a night that feels looked after.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService and cashouts: comfort, clarity and care\n<\/h3>\n\n<p>\nOur team is at the heart of your experience, delivering confident, friendly service that helps you feel at ease from the moment you arrive. If it’s your first visit, we’ll guide you through the venue, point you to the right areas and help you choose a format that suits your style. We respect each guest’s pace—some enjoy the social buzz, others prefer quiet focus—and we’re set up for both. English is our primary language, and our approach is always clear, polite and guest‑first.\n\n<\/p>\n<br>\n\n\n<p>\nWe operate in pounds sterling, keeping payments and payouts familiar and straightforward. We support popular payment options designed to make topping up quick and convenient, so you can stay in the flow of your night. Depending on the method and responsible‑gaming requirements, some payment routes may be applied differently, and we’ll always help you choose the smoothest option on the day. Our aim is simple: financial steps that feel easy, transparent and stress‑free.\n\n<\/p>\n<br>\n<p>\nFor quick access to cash and everyday transactions, we maintain practical in‑venue services so you don’t lose time. Cash desk support and ATM access are organised to keep things moving efficiently. If you have questions about limits, approvals or the best way to pay, reception and cashiering staff will walk you through it clearly. We prioritise speed and simplicity because your night out should stay enjoyable.\n\n<\/p>\n<br>\n<p>\nWhen it’s time to collect winnings, we handle cashouts through a clear cashier process, confirming outcomes and paying accurately. For larger amounts or special requests, we take extra care to keep everything smooth, secure and comfortable. If identity checks are needed, we explain what works and keep the process calm and respectful. Our goal is for your win to feel like what it is—an exciting highlight of your evening.\n\n<\/p>\n<br>\n<p>\nOn taxation, the general position is that gambling winnings for players are typically not subject to income tax. If you have personal circumstances that may affect reporting or residency considerations, it’s best to take individual professional advice. From our side, we focus on correct procedures and clear payouts every step of the way. We want your win to be pure celebration—without unnecessary hassle.\n\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting rules: easy entry, polished nights\n<\/h3>\n\n<p>\nWe keep visiting simple and clear so you can focus on enjoying your night and your games. Entry is friendly and straightforward—you arrive as a guest and step straight into the atmosphere. We follow a smart casual standard to keep the overall feel stylish and comfortable for everyone. Entry is 18+, and when needed we’ll do a quick document check to confirm age. We ask guests to be presentable and respectful so the space stays enjoyable for all. Inside, signage and layout make it easy to find tables, slots, the bar and relaxed seating. We maintain a calm, well‑run floor and are always happy to help with venue etiquette and practical questions. Photos and video are welcomed only where they don’t impact privacy and safety—our team will guide you on what’s appropriate. We support responsible gaming and can help you set personal limits if you choose. Getting here is convenient whether you drive or use public transport. For drivers, on‑site parking helps your night start smoothly.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey entry conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge: 18+, photo ID checks may be requested when needed.\n\n<\/li>\n            <li>• \nVisit style: walk in as a guest, no booking required for general entry.\n\n<\/li>\n            <li>• \nIdentification: may be requested by reception\/security when appropriate.\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDress code (smart casual)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nWelcome: neat everyday outfits, smart jeans, clean footwear.\n\n<\/li>\n            <li>• \nNot suitable: sportswear, vest tops, football shirts.\n\n<\/li>\n            <li>• \nHeadwear: caps and hats aren’t used in gaming areas.\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBehaviour and venue guidelines\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPrivacy: respect other guests and table space.\n\n<\/li>\n            <li>• \nFilming: only in permitted areas without disrupting play.\n\n<\/li>\n            <li>• \nResponsible play: control tools available on request.\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGetting here and parking\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBy car: easy access with convenient guest parking.\n\n<\/li>\n            <li>• \nPublic transport: nearby stops make city travel simple.\n\n<\/li>\n            <li>• \nAccessibility: thoughtful entry solutions and easy in‑venue navigation.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRewards programme: more value with every visit\n<\/h3>\n\n<p>\nOur rewards programme is built for guests who love getting more from every night out. We turn play and bar moments into points and perks that feel genuinely worthwhile. Joining is quick, and benefits start right away—you begin earning and unlocking tailored offers from the start. We keep it clear: the more often you visit and the more you enjoy your time with us, the more opportunities open up. Tiers make progress visible and rewarding, like a personal journey through the experiences you love. We also run challenges and missions that add extra reasons to come in today, not “someday”. The programme suits occasional visitors as well as regulars who enjoy consistent nights out. We highlight special days when rewards feel stronger and offers feel sharper. You gain not only rewards, but also a more personalised service and attention to what you enjoy. For us, loyalty should be simple, fair and truly useful.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nHow to join: sign up at reception with photo ID, then start earning immediately.\n\n<\/li>\n            <li>• \nAge: 18+ (same as entry).\n\n<\/li>\n            <li>• \nTime: typically just a few minutes, no complicated steps.\n\n<\/li>\n            <li>• \nAccess to offers: member promotions can be available as soon as your account is active.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nStarter: your entry tier—earn points from day one.\n\n<\/li>\n            <li>• \nSilver: achieved through regular visits and steady play—unlocks more tailored offers.\n\n<\/li>\n            <li>• \nGold: for highly active guests—more reward moments and stronger perks.\n\n<\/li>\n            <li>• \nPlatinum\/VIP: for our most consistent visitors—priority service and top‑level privileges.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRewards and perks\n<\/h4>\n\n <ul>\n            <li>• \nPoints from play and purchases: earn and redeem—e.g., £5–£20 Free Play during promo windows.\n\n<\/li>\n            <li>• \nExclusive member offers: special nights featuring mechanics like match‑play, where we add value to qualifying stakes under the terms.\n\n<\/li>\n            <li>• \nGifts and prize draws: themed periods with entries and prize moments, including in‑venue draws.\n\n<\/li>\n            <li>• \nDrinks and bar perks: added value on menus—e.g., up to 50% off on selected dates.\n\n<\/li>\n\t    <li>• \nChallenges and missions: complete visit\/play tasks to unlock bonus points and extra treats.\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Genting Casino Reading",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nOffers and bonuses: bigger moments, stronger wins\n<\/h3>\n\n<p>\nWe regularly add extra value to your gaming so every visit feels exciting and rewarding. You’ll find offers designed to boost the experience—from free play to themed nights with prize moments. Seasonal events are a favourite because they turn familiar games into something special with added buzz. We often connect offers to popular formats such as slots, electronic tables and dealer classics. That means you can choose what suits you—fast rounds or strategic table play. We also bring entertainment into the mix, making it easy to pair gaming with a lively social night. For planners, we keep offer windows and conditions clear so you can time your visit well. Our core principle is simplicity: you understand the mechanic quickly and feel the benefit immediately. We want bonuses to enhance your night, not complicate it. And there’s always a “today” reason to step in.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGaming bonuses and specials\n<\/h4>\n\n <ul>\n            <li>• \nCurry Night + Free Play: a dining bundle with a gaming boost—example format: £5 Free Play on slots when the offer is purchased (valid on selected dates).\n\n<\/li>\n            <li>• \nMatch‑Play promotions: “we match your stake” mechanics—e.g., matched value up to £5–£10 under the day’s terms.\n\n<\/li>\n            <li>• \nSlot jackpots: big prize targets—e.g., jackpots up to £10,000 on selected machines and during promo periods.\n\n<\/li>\n            <li>• \nE‑tables value play: flexible staking—example range: from £0.10 for an easy start and up to £100 for confident sessions.\n\n<\/li>\n\t    <li>• \nSeasonal themes: calendar‑led weeks with prize draws—e.g., in‑venue draws and gifts during key celebrations.\n\n<\/li>\n\t    <li>• \nFood & drink specials: standout value windows—e.g., up to 50% off selected items on limited dates.\n\n<\/li>\n\t    <li>• \nLive entertainment nights: music, DJs and show moments that elevate the whole night out.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games: dealer classics and LIVE e‑tables\n<\/h3>\n\n<p>\nWe’ve built a game selection that works brilliantly for first visits and for confident, strategic play. At the core are casino favourites—roulette and blackjack—where you feel the rhythm of the table and the thrill of every stake. If you prefer speed and a smooth start, our electronic formats and LIVE e‑tables make it easy to begin with lighter stakes. Poker fans can enjoy Cash Poker, where skill, discipline and reading the room make the difference. If you like fast rules and big moments, Three Card Poker delivers a lively, accessible pace. Slots add variety through themes, features and jackpot chasing. Our floor layout keeps everything easy to find so you can move between formats effortlessly. New guests enjoy the clear entry points, while experienced players love switching pace and style across the night. We also support a comfortable learning curve—start steady, build confidence, and expand your game choices. Best of all, you can mix multiple favourites in one visit and create your ideal night out.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMost‑chosen games\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRoulette (American\/variations): classic pace, prediction and spin‑by‑spin excitement.\n\n<\/li>\n            <li>• \nBlackjack: a decisions‑driven game where strategy shines through.\n\n<\/li>\n            <li>• \nThree Card Poker: fast, simple to enter, packed with lively moments.\n\n<\/li>\n            <li>• \nCash Poker: real table energy, pots and competitive card action.\n\n<\/li>\n\t    <li>• \nLIVE e‑tables: electronic play with live presentation and easy stake control.\n\n<\/li>\n\t    <li>• \nSlots: themed variety with feature play and jackpot chasing.\n\n<\/li>\n\t    <li>• \nMahjong (casino format): a distinctive option for guests who want something different.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTable limits: comfortable stakes for every style\n<\/h3>\n\n<p> \nWe offer a wide range of staking options so you can play at a pace that suits you—from an easy start to confident sessions. Our limits make it comfortable for new guests to learn, while experienced players can choose the tempo that matches the night. Limits can vary by table, time and availability, so you’ll always have real choice in venue. Below are helpful guide ranges that show the typical structure.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #2A4F51;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>American Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Three Card Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£2<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>LIVE e‑tables<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Cash Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1\/£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">on demand<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntertainment and shows: nightlife energy, music and sport\n<\/h3>\n\n<p>\nWe build nights where entertainment naturally complements your gaming. It’s easy to start with a drink, move into the action, then return to relaxed social spaces to enjoy the moment. Regular entertainment nights keep the atmosphere lively—music, live‑style moments and social energy make every visit feel bigger. The best part is how smoothly it blends with play: you don’t step out of the night, you simply change pace.\n\n<\/p>\n<br>\n\n<p>\nFor sport lovers, our live screenings turn a match into a full evening experience. Cheer on your team, share reactions with friends, and enjoy the bar and gaming formats alongside the action. It creates a club‑like feeling where the buzz on screen and the buzz on the floor elevate each other.\n\n<\/p>\n<br>\n<p>\nOur late‑night approach is all about comfort and choice—you can be right in the centre of the vibe or unwind in a calmer area. We shape schedules so guests have regular reasons to return: themed periods, seasonal celebrations and special nights. That keeps the experience fresh, with each visit offering a slightly different flavour of fun.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll entertainment options\n<\/h4>\n\n <ul>\n            <li>• \nLive entertainment nights: regular music‑led, atmosphere‑boosting evenings.\n\n<\/li>\n            <li>• \nDJ sessions: energetic sets for a club‑style feel.\n\n<\/li>\n            <li>• \nLive sport on screens: key fixtures with a bar‑night atmosphere.\n\n<\/li>\n            <li>• \nSeasonal themed weeks: celebration periods with added moments and surprises.\n\n<\/li>\n\t    <li>• \nSocial lounge spaces: areas to chat, reset and celebrate wins.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, dining and downtime: flavour between sessions\n<\/h3>\n\n<p>\nDowntime with us is part of the experience, not just a break between games. Our bar sets the tone of the night—cocktails, popular mixes and a strong drink range help you match the mood you want. Start with a relaxed aperitif, move into bolder flavours, and finish your evening in a calm, stylish way. The bar atmosphere works for meet‑ups, social nights and unwinding after a great run of hands.\n\n<\/p>\n<br>\n<p>\nWe also make sure food fits naturally into a proper night out. You can take a satisfying pause without losing the vibe—eat well, talk through the action and return to tables or slots smoothly. Our dining approach supports every plan, from a quick bite to a fuller meal. It’s ideal for longer visits when you want to keep your energy up.\n\n<\/p>\n<br>\n\n<p>\nComfortable social spaces let you change pace whenever you like. Take a reset, watch the floor, chat with friends or enjoy live sport while staying in the flow of the venue. Everything is close, connected and designed for enjoyment. If you like blending gaming and dining, it’s easy to create your perfect loop: bar, meal, play, relax—and back to play.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll relaxation spots\n<\/h4>\n\n <ul>\n            <li>• \nLate Bar: cocktails, drinks and a lively social night feel.\n\n<\/li>\n            <li>• \nDining menus and restaurant-style options: food for quick pauses or a fuller dinner.\n\n<\/li>\n            <li>• \nSeating and lounge areas: comfort for chatting, resetting and watching play.\n\n<\/li>\n            <li>• \nLive sport viewing: match atmosphere paired with bar‑night relaxation.\n\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do you help beginners?",
+                            "answer": "Yes. We’re happy to explain the basics, guide you around and recommend games with an easy entry and a comfortable pace.\n\n\n"
+                        },
+                        {
+                            "title": "How quick is entry at busy times?",
+                            "answer": "We run reception to keep entry smooth and clear, with staff support to maintain an easy flow even during peak hours.\n\n\n"
+                        },
+                        {
+                            "title": "Can I use contactless and banking apps?",
+                            "answer": "We support modern payment habits, and our team will confirm the most convenient option for you on the day.\n\n\n"
+                        },
+                        {
+                            "title": "Can I mix different games in one visit?",
+                            "answer": "Definitely—moving between slots, electronic formats and dealer tables is part of the fun, and it’s easy to do here.\n\n\n"
+                        },
+                        {
+                            "title": "Do you offer responsible gaming tools?",
+                            "answer": "Yes—we support controlled play, and you can request settings and limits to keep everything within your comfort zone.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
